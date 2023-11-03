@@ -9,7 +9,7 @@ Este projeto que foi disponibilizado em um vídeo no **Youtube** consiste em um 
 
 ---
 ## **Como jogar:**
-Tecla Espaço - pular para desviar dos canos. 
+Use qualquer tecla para pular e desviar dos canos. 
 
 ---
 ## **Tecnologias utilizadas:**
